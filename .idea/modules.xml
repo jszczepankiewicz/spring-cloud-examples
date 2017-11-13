@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-service.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-service.iml" group="eureka-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-service/eureka-service_main.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-service/eureka-service_main.iml" group="eureka-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-service/eureka-service_test.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-service/eureka-service_test.iml" group="eureka-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/example-service.iml" filepath="$PROJECT_DIR$/.idea/modules/example-service.iml" group="example-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/example-service/example-service_main.iml" filepath="$PROJECT_DIR$/.idea/modules/example-service/example-service_main.iml" group="example-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/example-service/example-service_test.iml" filepath="$PROJECT_DIR$/.idea/modules/example-service/example-service_test.iml" group="example-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gateway-service.iml" filepath="$PROJECT_DIR$/.idea/modules/gateway-service.iml" group="gateway-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gateway-service/gateway-service_main.iml" filepath="$PROJECT_DIR$/.idea/modules/gateway-service/gateway-service_main.iml" group="gateway-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gateway-service/gateway-service_test.iml" filepath="$PROJECT_DIR$/.idea/modules/gateway-service/gateway-service_test.iml" group="gateway-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-cloud-examples.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-cloud-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-cloud-examples_main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-cloud-examples_main.iml" group="spring-cloud-examples" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-cloud-examples_test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-cloud-examples_test.iml" group="spring-cloud-examples" />
+    </modules>
+  </component>
+</project>
